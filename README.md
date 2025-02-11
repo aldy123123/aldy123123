@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hello Dev<br/>My Name Is Hart</h1>
-  <h3>Live On Indonesia</h3>
+  <h1>Hello Dev<br/>My Name Is Aldy</h1>
+  <h3>I'm from Indonesia</h3>
 </div>
 
 <!--
@@ -19,15 +19,15 @@
 <h2>👨🏻‍💻 About Me</h2>
 
 ```js
-console.log("👋🏻 Yunihart Poli");
+console.log("👋🏻 Feraldy");
 console.log("Hello World is not my first code But My Life Is Same Like Hello World");
 
-const work = "As Freelancer";
+const work = "secret";
 const major = "Information Technology (IT)";
 const learn = "Data Science, Software Development, Cyberops, Cloud Computing, Web Development, Machine Learning";
 const ask = "Web Development, 3D Design, Cyberlearn, UI/UX";
-const email = "mdohart4@gmail.com";
-const funfact = "Life Is Nothing";
+const email = "hehe";
+const funfact = "Wanna die, but first gotta grind";
 
 console.log(work);
 console.log(major);
